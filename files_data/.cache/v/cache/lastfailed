@@ -1,0 +1,5 @@
+{
+  "tests/test_get_comments.py::test_comments_should_be_sorted_by_date": true,
+  "tests/test_migration.py::test_proper_type": true,
+  "tests/test_user_management.py::test_login": true
+}
